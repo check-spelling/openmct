@@ -1,0 +1,9 @@
+^\.github/actions/spelling/
+^example/msl/data/rems\.json$
+/vendor/
+ignore$
+\.jpg$
+\.png$
+\.svg$
+\.ttf$
+\.woff$
